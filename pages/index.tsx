@@ -7,6 +7,7 @@ export default function Home(): JSX.Element {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <a href="about">Hello there</a>
       </main>
     </div>
   );
