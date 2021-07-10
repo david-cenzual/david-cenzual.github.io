@@ -59,7 +59,7 @@ export default function Home() : JSX.Element {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <div> Me </div>
+            <div> Me and you everyone </div>
           </span>
         </a>
       </footer>
